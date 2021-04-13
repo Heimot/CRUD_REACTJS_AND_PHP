@@ -1,0 +1,10 @@
+.items {
+    background-color: white;
+    width: 225px;
+  
+    color: black;
+    border: solid black 1px;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 5px;
+  }
